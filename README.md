@@ -26,7 +26,7 @@
 
 1.  **تحميل المشروع (Clone):**
     ```bash
-    git clone {https://github.com/iifadih/LyricGen-AI/tree/main]
+    git clone https://github.com/iifadih/LyricGen-AI/tree/main
     ```
 2.  **تثبيت المكتبات:**
     ```bash
